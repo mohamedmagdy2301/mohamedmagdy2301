@@ -29,14 +29,14 @@
 </div>
 
 ###
-
+<!--
 <div align="center">
   <a href="https://open.spotify.com/user/gg7uwoufa3gzbyjc8lv891qu0">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=gg7uwoufa3gzbyjc8lv891qu0&count=10&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
-
 ###
+-->
 
 <h2 align="left">👩‍💻  About Me</h2>
 
