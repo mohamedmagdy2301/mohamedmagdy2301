@@ -47,7 +47,7 @@
 
 ###
 
-<h4 align="left">◉ 🔭 I’m currently working on Flutter <br>◉ 🤝 I’m available for freelancing.<br>◉ 🔭 I’m currently working on improving my skills as a software engineer.<br>◉ 💬 Ask me about Flutter, Dart, Java.<br>◉ 📫 How to reach me mohammedmego15@gmail.com</h4>
+<h4 align="left">◉ 🔭 I’m currently working on Flutter <br>◉ 🤝 I’m available for freelancing.<br>◉ 🔭 I’m currently working on improving my skills as a software engineer.<br>◉ 💬 Ask me about Flutter, Dart, Java.<br>◉ 📫 How to reach me <a href="https://mail.google.com/mail/u/0/#search/mohammedmego15%40gmail.com?compose=new" target="_blank">mohammedmego15@gmail.com </a></h4>
 
 ###
 
