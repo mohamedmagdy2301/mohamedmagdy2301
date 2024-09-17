@@ -24,8 +24,13 @@
   <a href="https://www.facebook.com/profile.php?id=61553260032452" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="28" alt="facebook logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="28" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="28" alt="instagram logo"  />
+    <a href="https://x.com/MEGO_1911" target="_blank">
+     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="28" alt="twitter logo"  />
+    </a>
+    <a href="https://www.instagram.com/mohmedmgdyy/" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="28" alt="instagram logo"  />
+    </a>
+ 
 </div>
 
 ###
