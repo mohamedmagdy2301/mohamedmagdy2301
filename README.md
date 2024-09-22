@@ -49,7 +49,8 @@
   
   ![Code Time](http://img.shields.io/badge/Code%20Time-138%20hrs%2054%20mins-blue)
   <a href="https://wakatime.com/@018d50f0-48a3-4cfc-8081-47a7e8de1753"><img src="https://wakatime.com/badge/user/018d50f0-48a3-4cfc-8081-47a7e8de1753.svg" alt="Total time coded since Jan 28 2024" /></a>
-  ![Profile Views](http://img.shields.io/badge/Profile%20Views-289-blue)
+  ![Profile Views](http://img.shields.io/badge/Profile%20Views-289-blue) <br> <br>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@mohamedmagdy/39aff30d-bc77-4d3d-aa4d-4a963bd3b905.png" /></a>
 </div>
 
 
@@ -58,7 +59,8 @@
 
 ###
 
-<h4 align="left">◉ 🔭 I’m currently working on Flutter <br>◉ 🤝 I’m available for freelancing.<br>◉ 🔭 I’m currently working on improving my skills as a software engineer.<br>◉ 💬 Ask me about Flutter, Dart, Java.<br>◉ 📫 How to reach me <a href="https://mail.google.com/mail/u/0/#search/mohammedmego15%40gmail.com?compose=new" target="_blank">mohammedmego15@gmail.com </a></h4>
+<h4 align="left">◉ 🔭 I’m currently working on Flutter <br>◉ 🤝 I’m available for freelancing.<br>◉ 🔭 I’m currently working on improving my skills as a software engineer.<br>◉ 💬 Ask me about Flutter, Dart, Java.<br>
+◉ 📫 How to reach me <a href="https://mail.google.com/mail/u/0/#search/mohammedmego15%40gmail.com?compose=new" target="_blank">mohammedmego15@gmail.com </a></h4>
 
 ###
 
@@ -106,4 +108,6 @@
   <img src="https://streak-stats.demolab.com?user=mohamedmagdy2301&locale=en&mode=daily&theme=apprentice&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=mohamedmagdy2301&theme=apprentice&no-bg=false&no-frame=true&column=4&row=2&margin-h=14&margin-w=27" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedmagdy2301&theme=one-dark&radius=10&area=true&hide_border=true&hide_title=false" height="250" alt="activity-graph graph"  />
+    <a href="https://wakatime.com"><img src="https://wakatime.com/share/@mohamedmagdy/737080b1-f9a9-44d0-8c65-ce9610c64382.png" /></a>
+
 </div>
