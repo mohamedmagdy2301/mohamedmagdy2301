@@ -33,7 +33,7 @@
     <a href="https://www.instagram.com/mohmedmgdyy/" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="28" alt="instagram logo"  />
     </a>
- 
+
 </div>
 
 ###
@@ -45,12 +45,13 @@
 </div>
 ###
 -->
-
 <div align="center">
   
   ![Code Time](http://img.shields.io/badge/Code%20Time-138%20hrs%2054%20mins-blue)
+  <a href="https://wakatime.com/@018d50f0-48a3-4cfc-8081-47a7e8de1753"><img src="https://wakatime.com/badge/user/018d50f0-48a3-4cfc-8081-47a7e8de1753.svg" alt="Total time coded since Jan 28 2024" /></a>
   ![Profile Views](http://img.shields.io/badge/Profile%20Views-289-blue)
 </div>
+
 
 
 <h2 align="left">👩‍💻  About Me</h2>
