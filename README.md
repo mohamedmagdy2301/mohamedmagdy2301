@@ -99,6 +99,7 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
+<!--![mohamedmagdy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedmagdy2301&show_icons=true&theme=nord&rank_icon=percentile)-->
 
 <br clear="both">
 
@@ -111,3 +112,4 @@
     <a href="https://wakatime.com"><img src="https://wakatime.com/share/@mohamedmagdy/737080b1-f9a9-44d0-8c65-ce9610c64382.png" /></a>
 
 </div>
+
