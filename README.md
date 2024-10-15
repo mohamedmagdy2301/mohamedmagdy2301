@@ -1,7 +1,6 @@
 <br clear="both">
 
 
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Protest+Guerrilla&weight=900&size=45&pause=1000&color=F78918&width=835&height=100&lines=Hey+there%2C+I'm+Mohmed+%F0%9F%98%8A%E2%9C%8C%EF%B8%8F" alt="Typing SVG" /></a>
 
 ###
@@ -54,16 +53,15 @@
 
 
 
-<h2 align="left">👩‍💻  About Me</h2>
+# 👩‍💻  About Me
 
 ###
 
-<h4 align="left">◉ 🔭 I’m currently working on Flutter <br>◉ 🤝 I’m available for freelancing.<br>◉ 🔭 I’m currently working on improving my skills as a software engineer.<br>◉ 💬 Ask me about Flutter, Dart, Java.<br>
-◉ 📫 How to reach me <a href="https://mail.google.com/mail/u/0/#search/mohammedmego15%40gmail.com?compose=new" target="_blank">mohammedmego15@gmail.com </a></h4>
+<h2 align="left">◉ 🔭 I’m currently working on Flutter <br>◉ 🤝 I’m available for freelancing.<br>◉ 🔭 I’m currently working on improving my skills as a software engineer.<br>◉ 💬 Ask me about Flutter, Dart, Java.<br>
+◉ 📫 How to reach me <a href="https://mail.google.com/mail/u/0/#search/mohammedmego15%40gmail.com?compose=new" target="_blank">mohammedmego15@gmail.com </a></h2><br>
 
-###
 
-<h3 align="left">🛠 Language and tools</h3>
+# 🛠 Language and tools
 
 ###
 
@@ -95,15 +93,12 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+# 🔥   My Stats :
 
 ###
-<!--![mohamedmagdy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedmagdy2301&show_icons=true&theme=nord&rank_icon=percentile)-->
-
 <br clear="both">
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedmagdy2301&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=apprentice&locale=en&hide_border=true&order=1" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedmagdy2301&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=apprentice&locale=en&hide_border=true&order=1&rank_icon=percentile" height="180" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedmagdy2301&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=apprentice&hide_border=true&order=2" height="180" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=mohamedmagdy2301&locale=en&mode=daily&theme=apprentice&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=mohamedmagdy2301&theme=apprentice&no-bg=false&no-frame=true&column=4&row=2&margin-h=14&margin-w=27" height="150" alt="trophy graph"  />
