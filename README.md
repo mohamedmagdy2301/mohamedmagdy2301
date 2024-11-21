@@ -96,7 +96,11 @@
 ###
 <br clear="both">
 <div align="center">
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@mohamedmagdy/39aff30d-bc77-4d3d-aa4d-4a963bd3b905.png" /></a>
+  <br>
+  <a href="https://github.com/mohamedmagdy2301">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamedmagdy2301&theme=apprentice" alt="GitHub Profile Summary" />
+  </a>
+<!--   <a href="https://wakatime.com"><img src="https://wakatime.com/share/@mohamedmagdy/39aff30d-bc77-4d3d-aa4d-4a963bd3b905.png" /></a> -->
 
    <img src="https://streak-stats.demolab.com?user=mohamedmagdy2301&locale=en&mode=daily&theme=apprentice&hide_border=true&border_radius=20&date_format=j%20M%5B%20Y%5D&order=3" height="220" alt="streak graph"  />
   <br clear="both">
