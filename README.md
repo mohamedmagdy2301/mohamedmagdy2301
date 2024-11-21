@@ -44,7 +44,7 @@
 -->
 <div align="center">
   
-  ![Code Time](http://img.shields.io/badge/Code%20Time-338%20hrs%2054%20mins-blue)
+<!--  ![Code Time](http://img.shields.io/badge/Code%20Time-338%20hrs%2054%20mins-blue) -->
   <a href="https://wakatime.com/@018d50f0-48a3-4cfc-8081-47a7e8de1753"><img src="https://wakatime.com/badge/user/018d50f0-48a3-4cfc-8081-47a7e8de1753.svg" alt="Total time coded since Jan 28 2024" /></a>
   ![Profile Views](http://img.shields.io/badge/Profile%20Views-289-blue) <br> <br>
   <a href="https://wakatime.com"><img src="https://wakatime.com/share/@mohamedmagdy/39aff30d-bc77-4d3d-aa4d-4a963bd3b905.png" /></a>
