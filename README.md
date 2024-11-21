@@ -97,12 +97,14 @@
 ###
 <br clear="both">
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedmagdy2301&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=apprentice&locale=en&hide_border=true&order=1&rank_icon=percentile" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedmagdy2301&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=apprentice&hide_border=true&order=2" height="180" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=mohamedmagdy2301&locale=en&mode=daily&theme=apprentice&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=mohamedmagdy2301&theme=apprentice&no-bg=false&no-frame=true&column=4&row=2&margin-h=14&margin-w=27" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedmagdy2301&theme=one-dark&radius=10&area=true&hide_border=true&hide_title=false" height="250" alt="activity-graph graph"  />
-    <a href="https://wakatime.com"><img src="https://wakatime.com/share/@mohamedmagdy/737080b1-f9a9-44d0-8c65-ce9610c64382.png" /></a>
-
+   <img src="https://streak-stats.demolab.com?user=mohamedmagdy2301&locale=en&mode=daily&theme=apprentice&hide_border=true&border_radius=20&date_format=j%20M%5B%20Y%5D&order=3" height="220" alt="streak graph"  />
+  <br clear="both">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedmagdy2301&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&border_radius=20&theme=apprentice&locale=en&hide_border=true&order=1&rank_icon=percentile" height="220" alt="stats graph"  />
+  <br clear="both">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedmagdy2301&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=apprentice&hide_border=true&order=2" height="220" alt="languages graph"  />
+  <br clear="both">
+<!--   <img src="https://github-profile-trophy.vercel.app?username=mohamedmagdy2301&theme=apprentice&no-bg=false&no-frame=true&column=4&row=2&margin-h=14&margin-w=27" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedmagdy2301&theme=one-dark&radius=10&area=true&hide_border=true&hide_title=false" height="250" alt="activity-graph graph"  /> -->
+<!--     <a href="https://wakatime.com"><img src="https://wakatime.com/share/@mohamedmagdy/737080b1-f9a9-44d0-8c65-ce9610c64382.png" /></a> -->
 </div>
 
