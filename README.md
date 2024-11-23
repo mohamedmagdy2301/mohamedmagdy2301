@@ -120,3 +120,8 @@
 <!--     <a href="https://wakatime.com"><img src="https://wakatime.com/share/@mohamedmagdy/737080b1-f9a9-44d0-8c65-ce9610c64382.png" /></a> -->
 </div>
 
+###
+
+<img src="https://raw.githubusercontent.com/mohamedmagdy2301/mohamedmagdy2301/output/snake.svg" alt="Snake animation" />
+
+###
