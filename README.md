@@ -36,7 +36,6 @@
 <div align="center">
   <a href="https://wakatime.com/@018d50f0-48a3-4cfc-8081-47a7e8de1753"><img src="https://wakatime.com/badge/user/018d50f0-48a3-4cfc-8081-47a7e8de1753.svg" alt="Total time coded since Jan 28 2024" /></a>
   &nbsp;
-  ![Profile Views](http://img.shields.io/badge/Profile%20Views-289-blue)
 </div>
 
 ---
@@ -46,9 +45,8 @@
 ###
 
 <h3 align="left">
-◉ 🚀 Founder & developer of <a href="https://escore.app" target="_blank"><strong>Escore</strong></a> — a live esports platform (Flutter + React + Flask)<br>
+◉ 🚀 Developer of <a href="https://escore.app" target="_blank"><strong>Escore</strong></a> — a live esports platform (Flutter)<br>
 ◉ 📱 Building cross-platform mobile apps with <strong>Flutter & Dart</strong><br>
-◉ 🌐 Crafting web dashboards & frontends with <strong>React</strong><br>
 ◉ ⚙️ Engineering backends with <strong>Python Flask</strong> and <strong>Node.js</strong><br>
 ◉ 🤖 Integrating AI features using <strong>Gemini 2.0 Flash</strong> and <strong>Whisper AI</strong><br>
 ◉ 🌍 Hosting production apps on <strong>DigitalOcean</strong><br>
