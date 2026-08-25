@@ -285,13 +285,6 @@ Useful when a mobile product needs an API to talk to — but Flutter is where I 
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohamedmagdy2301&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=16&theme=apprentice&rank_icon=percentile&cache_seconds=86400" height="180" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedmagdy2301&layout=compact&langs_count=6&hide_border=true&border_radius=16&theme=apprentice&cache_seconds=86400" height="180" alt="Top languages" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedmagdy2301&theme=github-compact&radius=10&area=true&hide_border=true&color=F78918&line=F78918&point=ffffff" width="98%" alt="Contribution activity" />
-
 </div>
 
 ---
